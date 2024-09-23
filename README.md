@@ -23,7 +23,7 @@ iphone(15〜)やandroidで採用率の高いUSB-C端子を採用する。USB-C�
 ただし、面倒な回路が必要になりそう。
 https://cba.sakura.ne.jp/board/QA005.htm
 
-- なんとかiphoneの電流をコントロールする。test
+- なんとかiphoneの電流をコントロールする。
 
 ### ケーブル
 
