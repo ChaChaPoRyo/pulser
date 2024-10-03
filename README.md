@@ -17,9 +17,9 @@ C-PTSDについてはその多様な精神症状から日本ではうつ病や�
 
 ### 振動子モジュール選定
 振動モーター、Linear Resonant Actuator（LRA）、スピーカータイプ、ピエゾ素子
+[vp2 4500円](http://www.acouve.co.jp/product/pd_vp2.html)
+[ハイブリッドタフタイプ AFT14シリーズ　2684円](https://tech.alpsalpine.com/j/products/detail/AFT14A903A/)
 [参考](https://sites.google.com/view/t-nakamura/other/vibrators#h.p_dnpa_RVeo9hA)
 
 ### 技術選定
 [Raspberry Pi Pico ラズベリーパイピコ 880円](https://akizukidenshi.com/catalog/g/g116132/)
-[vp2 4500円](http://www.acouve.co.jp/product/pd_vp2.html)
-[ハイブリッドタフタイプ AFT14シリーズ](https://tech.alpsalpine.com/j/products/detail/AFT14A903A/)
